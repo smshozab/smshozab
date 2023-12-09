@@ -1,3 +1,4 @@
+![github-header-image (3)](https://github.com/smshozab/smshozab/assets/29998010/8f999dd0-848a-4ebc-b29c-82f78ba85bdc)
 - 👋 Hi, I’m @smshozab
 - 👀 I’m interested in solving problems through coding and designing.
 - 🌱 I’m currently working on my inner self and learning JavaScript, Open-Source Programming, and every other stuff that seems good to me.
