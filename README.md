@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smshozab
-- 👀 I’m interested in coding, content, startups, businesses.
-- 🌱 I’m currently working on myself and learning JavaScript, Open-Source Programming and other stuff that seem good to me.
-- 💞️ I’d like to collaborate on side-projects I usually build.
+- 👀 I’m interested in solving problems through coding and designing.
+- 🌱 I’m currently working on my inner self and learning JavaScript, Open-Source Programming, and every other stuff that seems good to me.
+- 💞️ I’d like you to collaborate on side projects I usually build.
 - 📫 How to reach me?
 - Email: shozabmehdi89@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shozabmehdi/
