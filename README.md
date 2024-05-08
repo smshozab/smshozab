@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shozab</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
-- 🌱 I’m currently learning Data Structures & Algorithms, and getting deep dive into Back-End Development **Django, Node JS**
+- 🌱 I’m currently learning Data Structures & Algorithms, and getting deep dive into Back-End Development.
 
 - 👨‍💻 Few of my frontend projects are available at [https://shozabmehdi.me/](https://shozabmehdi.me/)
 
