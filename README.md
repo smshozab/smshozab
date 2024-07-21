@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shozab</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
-- 🌱 I’m currently learning Data Structures & Algorithms, and taking a deep dive into Back-End Development && Blockchain Development (Smart Contracts).
+- 🌱 I’m currently practicing Data Structures & Algorithms on <a href="https://leetcode.com/u/shozabmehdii/">Leetcode</a>, and taking a deep dive into Back-End Development && Blockchain Development (Smart Contracts). Alongside all those, I didn't let my pursuit of Machine Learning and AI go in vain and thus, caught the 2024 wave of AI and rode upon that.
 
 - 👨‍💻 Few of my frontend projects are available at [https://shozabmehdi.me/](https://shozabmehdi.me/)
 
