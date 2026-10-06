@@ -209,4 +209,5 @@
 </p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smshozab&show_icons=true&locale=en&layout=compact" alt="smshozab" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smshozab&" alt="smshozab" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smshozab&" alt="smshozab" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=smshozab)](https://git.io/streak-stats)
